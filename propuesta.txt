@@ -1,0 +1,3 @@
+En la ingeniería eléctrica y electrónica la IA puede ser muy útil porque ayuda a predecir fallas en equipos antes de que se descompongan 
+y eso ahorra tiempo y dinero. También serviría para analizar datos de consumo de energía y encontrar formas de hacer los sistemas más eficientes. 
+Me parece interesante pensar que incluso podría aplicarse en el control de circuitos o en energías renovables, ajustando todo en tiempo real para aprovechar mejor los recursos.
